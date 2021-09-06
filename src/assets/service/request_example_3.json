@@ -1,0 +1,17 @@
+{
+    "clientType":"business",
+    "products":[
+        {
+            "id":"A"
+        },
+        {
+            "id":"C"
+        },
+        {
+            "id":"C"
+        },
+        {
+            "id":"D"
+        }
+    ]
+}

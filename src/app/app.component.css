@@ -1,0 +1,11 @@
+.First{
+    float: left;
+    width: 30%;
+    border: 1px solid #FF7900;
+    padding: 10px 15px;
+}
+.First p{
+    color: #FF7900;
+    font-weight: 600;
+    font-size: 20px
+}
